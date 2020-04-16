@@ -4,6 +4,8 @@ Using NLP tools from Google AutoML to analyze the No More Silence Collection
 ## Overview
 This repository contains workbooks demonstrating how to use AutoML tools from Google Cloud Platform to extract and analyze a document from the No More Silence Collection at the UCSF Library. 
 
+The notebooks contain code and notes demonstrating how to use Google Cloud ML tools to extract text from a document, estimate the sentiment of the document, and categorize a document. The workbooks also contain some techniques for cleaning data, creating word frequency vectors, and assessing how much data has been lost during extraction. 
+
 ## Software Requirements
 This code was written in python with Google Colab notebooks, and uses the AutoML API. To run the code in this repository without modification, you'll need a Google Drive account and Google Cloud Platform account. Both are available through the free tier at the level needed for this project.
 
