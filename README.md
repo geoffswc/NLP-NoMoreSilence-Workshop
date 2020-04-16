@@ -21,7 +21,7 @@ https://cloud.google.com/solutions/document-ai/
 
 ## No More Silence Data
 
-This repository contains a single file from the UCSF Library No More Silence project. For more information on the full dataset, including instructions for how to cite this dataset in your research, please see the data set page on Dryad.
+This repository contains a sample file (used in the workbooks)from the UCSF Library No More Silence project. For more information on the full dataset, including instructions for how to cite this dataset in your research, please see the data set page on Dryad.
 
 https://datadryad.org/stash/dataset/doi:10.7272/Q6HD7SV7
 
